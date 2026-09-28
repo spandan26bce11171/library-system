@@ -1,0 +1,12 @@
+101|The Last Battle|Free
+102|The Hunger Games|Free
+103|Cracking the Coding Interview|Free
+104|Clean Code|Free
+105|The Pragmatic Programmer|Free
+106|Introduction to Algorithms|Free
+107|Atomic Habits|Free
+108|Deep Work|Free
+109|The Martian|Free
+110|Ignited Minds|Free
+111|Wings of Fire|Free
+112|Zero to One|Free
